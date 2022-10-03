@@ -1,3 +1,10 @@
+Vanishing Point prediction
+------
+![](https://i.imgur.com/TXgpgeB.gif)
+
+Project Aim
+------
+
 Goal is to predict the direction of travel (in camera frame) from provided dashcam video.
 
 - This repo has 10 videos. Every video is 1min long and 20 fps.
@@ -6,6 +13,7 @@ Goal is to predict the direction of travel (in camera frame) from provided dashc
 - 5 videos are unlabeled. It is your task to generate the labels for them.
 - The example labels are generated using a Neural Network, and the labels were confirmed with a SLAM algorithm.
 - Focal length is 910 pixels.
+
 
 
 ![picture](https://user-images.githubusercontent.com/6804392/116619874-e78a8180-a8f5-11eb-93e3-c9c852726db8.png)
@@ -18,10 +26,6 @@ the vehicle, which can vary between installations. Estimating these angles is es
 of the vehicle. The best way to start estimating these values is to predict the direction of motion in camera
 frame. More info  can be found in [this readme](https://github.com/commaai/openpilot/tree/master/common/transformations).
 
-Vanishing Point prediction
-------
-
-![](https://i.imgur.com/TXgpgeB.gif)
 
 Credits:
 https://github.com/commaai/calib_challenge - The comma.ai Calibration Challenge!
