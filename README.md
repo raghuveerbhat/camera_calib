@@ -18,6 +18,10 @@ the vehicle, which can vary between installations. Estimating these angles is es
 of the vehicle. The best way to start estimating these values is to predict the direction of motion in camera
 frame. More info  can be found in [this readme](https://github.com/commaai/openpilot/tree/master/common/transformations).
 
+Vanishing Point prediction
+------
+
+![](https://i.imgur.com/TXgpgeB.gif)
 
 Credits:
 https://github.com/commaai/calib_challenge - The comma.ai Calibration Challenge!
