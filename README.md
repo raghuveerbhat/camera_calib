@@ -2,6 +2,7 @@ Vanishing Point prediction
 ------
 ![](https://i.imgur.com/TXgpgeB.gif)
 
+Note that i've only uploaded my partial working solution.
 Project Aim
 ------
 
